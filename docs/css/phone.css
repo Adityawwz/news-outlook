@@ -28,7 +28,9 @@
   .head-img {
     width: 19em;
   }
-
+  .data{
+    padding: 5em;
+  }
   .footer div{
     grid-column-start: 1;
     grid-column-end: 3;
